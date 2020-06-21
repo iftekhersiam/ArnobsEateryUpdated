@@ -1,0 +1,28 @@
+body{
+	
+	background-image:url("image/bc2.jpg");
+	align-items:center;
+	
+}
+h1{text-align:center;
+color: red;
+position:relative;
+}
+
+h2 {text-align:center;
+color:white;
+font-size:30pt;
+}
+#food{display:block;
+margin:0 auto;}
+p{
+	text-align:center;
+font-size:19pt;
+color:white;}
+h3{
+  text-align: center;
+  font-size: 35pt;
+  color: White;
+
+
+}
